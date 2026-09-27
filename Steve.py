@@ -1,3 +1,4 @@
+print("-----IDENTITY CHECK-----")
 while True:
     name=input("What is your name?\nBegin with a capital letter: ")
     if name == "Steve":
